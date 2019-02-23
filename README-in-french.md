@@ -22,16 +22,11 @@ Pour corriger ce problème, aller dans le compte google du club : https://myacco
 ### Mode d'emploi :
 
 1. écrire le message de son choix dans 'body.txt'.
-	*l'objet doit être renseigné à la première ligne, après  'Objet :'
+	* l'objet doit être renseigné à la première ligne, après  'Objet :'
+	* Attention ! Le message doit être en HTML
+	* Pour personnaliser le message, mettre %s à chaque endroit où vous voulez ajouter une variable "de personnalisation"
 
-	*Attention ! Le message doit être en HTML 
-		<br/> pour saut de ligne
-		<a title="Titre du lien" href="http://www.exemple.fr">Ceci est un lien</a>
-		...
-
-	*Pour personnaliser le message, mettre %s à chaque endroit où vous voulez ajouter une variable "de personnalisation"
-
-->Je vous conseille franchement de tester la mise en forme de votre body en vous envoyant vous même le mail.
+-> Je vous conseille franchement de tester la mise en forme de votre body en vous envoyant vous même le mail.
 Pour cela, il suffit de mettre dans "addresse.txt" la ligne suivante : 
 
 destinataire@exemple.com <tab> variables de personnalisation 1 <tab> variables de personnalisation1	...
