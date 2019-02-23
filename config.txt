@@ -1,0 +1,3 @@
+adresse mail envoyeur : My Name <me@myaddress.com>
+serveur smtp : smtp-mail.outlook.com
+port : 587

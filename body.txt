@@ -1,0 +1,9 @@
+Objet : %s, la richesse t'attend !
+
+Bonjour%s
+<br/>
+<br/>Sous couvert de ce titre très putassier, je fais un test de mini logiciel d'envois de message personnalisé conçu par ma machinerie cérébrale hors du commun.
+<br/>Je suis intéressé par tes retours si le mail s'affiche mal ou si quelque chose te parait étrange.
+<br/>
+<br/>Cordialement,
+<br/>Léo PM.
